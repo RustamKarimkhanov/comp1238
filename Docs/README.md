@@ -2,4 +2,4 @@
 
 
 Lab 6 
-[CLI commands](Docs/Cli.md)
+[CLI commands](comp1238/Docs/Cli.md)
